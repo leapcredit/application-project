@@ -1,0 +1,27 @@
+{
+  "name": "leap-credit-application-form",
+  "version": "1.0.0",
+  "description": "Gulp Application to minify statis assets and generate production ready files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcdflorez/Leap-Credit-Application-Form.git"
+  },
+  "author": "jalamprea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcdflorez/Leap-Credit-Application-Form/issues"
+  },
+  "homepage": "https://github.com/rcdflorez/Leap-Credit-Application-Form#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-clean-dir": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
